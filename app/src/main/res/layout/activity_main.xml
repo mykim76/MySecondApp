@@ -59,6 +59,10 @@
             <RadioButton
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:text="가맹 사용자"/>
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
                 android:text="관리자"/>
         </RadioGroup>
         <Button
